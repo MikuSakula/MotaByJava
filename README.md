@@ -6,35 +6,35 @@ Java Swing 魔塔
 关于魔塔：
 1、总共共分为16个类
 
-   character 角色信息类	
-   
-   Fight 战斗类
-   
-   Flyingfortress 飞行堡垒类
-   
-   Gamecenter 游戏中心类
-   
-   Getmonster 初始化怪物信息
-   
-   Getthingsmessage 获取物品的弹窗信息
-   
-   Interaction 行为类，触发事件
-   
-   Main 主函数
-   
-   Map 导入地图并编号
-   
-   Mapdata 把map中的元素按每个楼层摆好，可以自制地图
-   
-   Message 游戏内置的固定消息
-   
-   Monster 怪物的信息类
-   
-   Sendmessage 发送消息类
-   
-   Shop 商店类
-   
-   Utils 调用发送消息
+      character 角色信息类	
+
+      Fight 战斗类
+
+      Flyingfortress 飞行堡垒类
+
+      Gamecenter 游戏中心类
+
+      Getmonster 初始化怪物信息
+
+      Getthingsmessage 获取物品的弹窗信息
+
+      Interaction 行为类，触发事件
+
+      Main 主函数
+
+      Map 导入地图并编号
+
+      Mapdata 把map中的元素按每个楼层摆好，可以自制地图
+
+      Message 游戏内置的固定消息
+
+      Monster 怪物的信息类
+
+      Sendmessage 发送消息类
+
+      Shop 商店类
+
+      Utils 调用发送消息
  
  2、随意修改和创建MapData类即可自制地图
  
